@@ -1,6 +1,6 @@
 name: Deploy GitHub Pages
 
-# Enable Pages automatically when the repository supports it.
+# Pages is configured to publish through GitHub Actions.
 
 on:
   push:
