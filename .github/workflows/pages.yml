@@ -1,5 +1,7 @@
 name: Deploy GitHub Pages
 
+# Enable Pages automatically when the repository supports it.
+
 on:
   push:
     branches: [main]
